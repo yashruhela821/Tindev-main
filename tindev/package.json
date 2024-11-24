@@ -1,7 +1,7 @@
 {
-  "name": "tindev",
+  "name": "tindev ",
   "version": "1.0.0",
-  "description": "tinder",
+  "description": "tinder ",
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js",
@@ -9,9 +9,9 @@
   },
   "keywords": [
     "nodejs",
-    "javascript"
+    "javascript "
   ],
-  "author": "A",
+  "author": "A ",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
